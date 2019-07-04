@@ -32,7 +32,7 @@ def italy():
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
     print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Youtube : {}AN Official {}| {}0822-7346-0308 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
